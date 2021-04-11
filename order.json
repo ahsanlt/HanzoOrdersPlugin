@@ -1,0 +1,239 @@
+{
+    "id": 47493,
+    "parent_id": 0,
+    "number": "47493",
+    "order_key": "wc_order_fdczrXkk3liW8",
+    "created_via": "checkout",
+    "version": "4.2.2",
+    "status": "processing",
+    "currency": "USD",
+    "date_created": {
+        "date": "2021-03-10 12:03:41.000000",
+        "timezone_type": 3,
+        "timezone": "America/Los_Angeles"
+    },
+    "date_created_gmt": "",
+    "date_modified": {
+        "date": "2021-03-10 12:03:44.000000",
+        "timezone_type": 3,
+        "timezone": "America/Los_Angeles"
+    },
+    "date_modified_gmt": "",
+    "discount_total": "0",
+    "discount_tax": "",
+    "shipping_total": "0.00",
+    "shipping_tax": "0",
+    "cart_tax": "0",
+    "total": "100.16",
+    "total_tax": "0",
+    "prices_include_tax": "",
+    "customer_id": 2894,
+    "customer_ip_address": "2603:90d8:0:df12:45ea:83e3:ec4f:5138",
+    "customer_user_agent": "Mozilla/5.0 (Linux; Android 11; SM-N975U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Mobile Safari/537.36",
+    "customer_note": "",
+    "billing": {
+        "first_name": "Kaela",
+        "last_name": "Rutkowski",
+        "company": "",
+        "address_1": "1624 E Coeur D Alene Ave",
+        "address_2": "",
+        "city": "Post falls",
+        "state": "ID",
+        "postcode": "83854",
+        "country": "US",
+        "email": "tookabear5914@gmail.com",
+        "phone": "2086514876"
+    },
+    "shipping": {
+        "first_name": "Kaela",
+        "last_name": "Rutkowski",
+        "company": "",
+        "address_1": "1624 E Coeur D Alene Ave",
+        "address_2": "",
+        "city": "Post falls",
+        "state": "ID",
+        "postcode": "83854",
+        "country": "US"
+    },
+    "payment_method": "sagepaymentsusaapi",
+    "payment_method_title": "Credit Card via Paya",
+    "transaction_id": "DQC63BJ3GD",
+    "date_paid": {
+        "date": "2021-03-10 12:03:44.000000",
+        "timezone_type": 3,
+        "timezone": "America/Los_Angeles"
+    },
+    "date_paid_gmt": "",
+    "date_completed": null,
+    "date_completed_gmt": "",
+    "cart_hash": "ddafec6e4e4d796c82388b61ce9bb2dc",
+    "meta_data": [
+        {
+            "id": 47498,
+            "key": "_billing_same_as_shipping",
+            "value": ""
+        },
+        {
+            "id": 47499,
+            "key": "_shipping_calculator",
+            "value": ""
+        },
+        {
+            "id": 47500,
+            "key": "is_vat_exempt",
+            "value": "no"
+        },
+        {
+            "id": 47501,
+            "key": "shear_tax_calculated",
+            "value": "0.06"
+        },
+        {
+            "id": 47502,
+            "key": "lt_order_totals",
+            "value": "663.56"
+        },
+        {
+            "id": 47503,
+            "key": "shear_tax",
+            "value": "37.56"
+        },
+        {
+            "id": 47504,
+            "key": "new_total",
+            "value": "37.56"
+        },
+        {
+            "id": 47505,
+            "key": "WooCommerceEventsTicketsPurchased",
+            "value": []
+        },
+        {
+            "id": 47506,
+            "key": "_wfacp_source",
+            "value": "https://hanzo.com/checkout/"
+        },
+        {
+            "id": 47507,
+            "key": "_wfacp_post_id",
+            "value": "27029"
+        },
+        {
+            "id": 47508,
+            "key": "_sageresult",
+            "value": {
+                "status": "Approved",
+                "reference": "DQC63BJ3GD",
+                "message": "APPROVED 028966",
+                "code": "028966",
+                "cvvResult": "M",
+                "avsResult": "Y",
+                "riskCode": "00",
+                "networkId": "46",
+                "isPurchaseCard": false,
+                "orderNumber": "47493",
+                "timestamp": "2021-03-10T15:03:44.6216006-05:00",
+                "maskedNumber": null,
+                "expiration": null,
+                "cardHolderName": null,
+                "brand": null,
+                "issuerCountry": null,
+                "transactionCurrency": null,
+                "language": null,
+                "hasChip": false,
+                "fallBackReason": null,
+                "frontEndPrompt": null,
+                "isOfflineDecline": false,
+                "Card Type": "Visa",
+                "Card Number": "XXXX-XXXX-XXXX-8151",
+                "Expiry Date": "0425"
+            }
+        },
+        {
+            "id": 47509,
+            "key": "_SageToken",
+            "value": "7edc374f0ac042209a48e829ce749164"
+        },
+        {
+            "id": 47510,
+            "key": "send_to_stamped_for_review",
+            "value": "1"
+        },
+        {
+            "id": 47511,
+            "key": "wpf_complete",
+            "value": "1"
+        },
+        {
+            "id": 47512,
+            "key": "_woofunnel_cid",
+            "value": "2812"
+        },
+        {
+            "id": 47513,
+            "key": "_pys_purchase_event_fired",
+            "value": "1"
+        },
+        {
+            "id": 47514,
+            "key": "_xlwcty_thankyou_page",
+            "value": "9818"
+        },
+        {
+            "id": 47515,
+            "key": "pif_discount",
+            "value": ""
+        },
+        {
+            "id": 47494,
+            "key": "payment_plan",
+            "value": "9.00"
+        },
+        {
+            "id": 47495,
+            "key": "monthly_payment",
+            "value": "62.6"
+        },
+        [],
+        {
+            "id": 47496,
+            "key": "shears_count",
+            "value": "1"
+        },
+        [],
+        [],
+        [],
+        {
+            "id": 47497,
+            "key": "lt_order_totals",
+            "value": "663.56"
+        }
+    ],
+    "line_items": [
+        {
+            "id": 8712,
+            "name": "HH8 Talon - 5.5 Inch Talon",
+            "product_id": 8712,
+            "variation_id": 8724,
+            "quantity": 1,
+            "tax_class": "",
+            "subtotal": "626",
+            "subtotal_tax": "0",
+            "total": "626",
+            "total_tax": "0",
+            "taxes": [],
+            "meta_data": [
+                {
+                    "id": 47493,
+                    "key": "_hanzo_variation_id",
+                    "value": "96"
+                }
+            ],
+            "sku": "HH8-5.5",
+            "price": "626"
+        }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [],
+    "fee_lines": []
+}
